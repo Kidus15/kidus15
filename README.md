@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Kidus 👋
 
-<!--
-**Kidus15/kidus15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science student at Eastern Mennonite University  
+🌍 Passionate about AI, software engineering, and building impactful tech  
+🚀 Currently learning machine learning and full-stack development  
+🎯 Always looking for new projects and challenges to grow my skills  
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+**Languages:** Python, JavaScript, HTML, CSS  
+**Frameworks:** Flask, React, Tailwind CSS  
+**Tools:** Git, VS Code, Figma, NVIDIA NIM API  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 What I’m Working On
+- Building AI and full-stack applications  
+- Exploring ML models and data-driven projects  
+- Contributing to open-source tools that make learning easier  
+
+## 📫 Let’s Connect
+<a href="https://www.linkedin.com/in/kidusassefa" target="_blank">LinkedIn</a> | 
+<a href="https://github.com/kidusassefa" target="_blank">GitHub</a> | 
+<a href="mailto:kidus.assefa@emu.edu">Email</a>
